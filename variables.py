@@ -26,4 +26,12 @@ Variables rules:
 # Multiple assignment same as above
 x, y, name, is_chill = (1, 2.5, 'Marty', True)
 
-print(x, y, name, is_chill)
+# Basic math variable
+a = x + y
+
+# Casting
+x = str(x)
+y = int(y)
+z = float(y)
+
+print(type(z), z)
