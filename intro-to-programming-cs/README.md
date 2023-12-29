@@ -1,8 +1,8 @@
-**# Introduction to Programming and Computer Science**
+# ** Introduction to Programming and Computer Science**
 
 ### Context
 
-I am learning the basics of programming and computer science concepts to better understand python. I am using the following video: (https://youtu.be/zOjov-2OZ0E?si=5sfgniEJlSYJ8q6v)
+I am learning the basics of programming and computer science concepts to better understand python. I am using the following video: https://youtu.be/zOjov-2OZ0E?si=5sfgniEJlSYJ8q6v
 
 I am making rough notes to keep for future reference.
 
