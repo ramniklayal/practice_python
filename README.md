@@ -1,2 +1,2 @@
-# practice_python
-This is practice repository to learn Python.
+# Practice Python
+This is a practice repository to learn Python. The subfolders names reference the source I am learning from.
