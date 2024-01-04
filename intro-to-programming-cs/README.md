@@ -20,8 +20,5 @@ There are many types of variables, but the most common ones are called _primitiv
 
 Integer, float and double can manipulated with basic math operations. Strings can be added.  Char's and boolean's cannot be operated on.
 
-One rule to keep in mind is that variable names must be one continuous string. A common practice to satisfy this rule is camelCase, in which after the first word, every word's first letter is capitalized.
-
-Example - Roundfreezetime : Hard to read
-        - roundFreezeTime : Easy to read
+One rule to keep in mind is that variable names must be one continuous string. A common practice to satisfy this rule is camelCase, in which after the first word, every word's first letter is capitalized. Example - Roundfreezetime: Hard to read, roundFreezeTime: Easy to read
 
